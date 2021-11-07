@@ -1,0 +1,18 @@
+
+Container's size - 6
+1: Tetrahedron, edge - 54, density - 0.147311
+2: Sphere, radius - 35, density - 0.124276
+3: Parallelepiped, first edge - 4444, second edge - 34, third edge - 2, density - 1.2280153
+4: Parallelepiped, first edge - 42, second edge - 22, third edge - 52420, density - 0.15369
+5: Parallelepiped, first edge - 30, second edge - 3, third edge - 42, density - 0.785
+6: Parallelepiped, first edge - 35, second edge - 48, third edge - 32, density - 0.331
+
+After shaker sort...
+
+Container's size - 6
+1: Parallelepiped, first edge - 42, second edge - 22, third edge - 52420, density - 0.15369
+2: Parallelepiped, first edge - 4444, second edge - 34, third edge - 2, density - 1.2280153
+3: Sphere, radius - 35, density - 0.124276
+4: Parallelepiped, first edge - 35, second edge - 48, third edge - 32, density - 0.331
+5: Tetrahedron, edge - 54, density - 0.147311
+6: Parallelepiped, first edge - 30, second edge - 3, third edge - 42, density - 0.785
